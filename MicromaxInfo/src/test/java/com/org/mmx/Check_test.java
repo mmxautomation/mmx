@@ -11,6 +11,8 @@ public class Check_test {
 	{
 		//int Numbers = Integer.valueOf(Number);
 		System.out.println("Your Name is "+ Name + " & number is " + Number);
+		System.out.println("Your Name is "+ Name + " & number is " + Number);
+
 
 	}
 }
